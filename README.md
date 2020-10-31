@@ -42,7 +42,7 @@ java实验三
 	}
 ```
 ## 5.系统运行截图
-      https://github.com/shishuaibin123/java2/blob/main/img/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202020-10-31%20202722.png
+    https://github.com/shishuaibin123/java2/blob/main/img/bbc.png
 ## 6.编程感想
    这次的实验给我带来了很大的挑战，让我学会了如何通过继承父类中的方法来实现学生选课系统，虽然自己
    写代码中有很多的错误，但通过同学的帮助改正了，让我学会了如何利用继承的特质，来实现程序的。最终让
